@@ -159,7 +159,7 @@ The date slicer allows the user to move from the overall three-year view to a sp
 
 **Dashboard preview**
 
-![Kenyan E-Commerce Sales Performance Dashboard](screenshots/dashboard.png)
+![Kenyan E-Commerce Sales Performance Dashboard](https://github.com/Justo-sys/Kenyan-E-Commerce-Sales-Analysis/blob/main/Screenshot/dashboard.png)
 
 ---
 
